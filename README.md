@@ -8,6 +8,17 @@ Next, we identify environmental and physical activity regimes that lead to core 
 
 Although we find that among considered physical activities, a marathon of 2 h and 46 min induces the highest level of inflammation, it must be noted that construction work done on a daily basis under the hot and humid tropical climate, can produce a continuous level of inflammation triggering moieties stretched at a longer timeline beating the negative effects of running a marathon. Our study demonstrates that the performance of the innate immune system can be severely compromised by the exposure to heat stress and physical exertion. This poses significant risks to health especially to those with limited access to cooling infrastructures. This is due in part to having low income, or having to work on outdoor settings, which is the case for construction workers. These risks to public health should be addressed through individual and population-level measures via behavioural adaptation and provision of the cooling infrastructure in outdoor environments.
 
+## Set-up
+
+1. Clone this repository to your local
+```
+git clone git@github.com:UvaCsl/immune-heat.git
+```
+2. Create an environment using the `requirements.txt` file
+
+```conda create --name <env> --file requirements.txt
+```
+
 ## Files Included
 
 There are 3 folders in this repository. 
