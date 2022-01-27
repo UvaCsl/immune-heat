@@ -14,9 +14,9 @@ Although we find that among considered physical activities, a marathon of 2 h an
 ```
 git clone git@github.com:UvaCsl/immune-heat.git
 ```
-2. Create an environment using the `requirements.txt` file
+2. Create an environment named `immune` using the `requirements.txt` file
 
-```conda create --name <env> --file requirements.txt
+```conda create --name immune --file requirements.txt
 ```
 
 ## Files Included
