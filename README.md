@@ -16,6 +16,10 @@ There are 3 folders in this repository.
 2. `notebooks` : contains jupyter notebooks corresponding to the simulations made
 3. `results` :  contains results of the simulations, including plots for numerous experiments done
 
+### Notebooks
+1. `HIIS-Heat (Dynamic Temperature).ipynb` : simulate the response of the innate immunity to dynamic temperatures
+2. `HIIS-Heat.ipynb` : simulate the response of the innate immunity to different levels of heat sources
+
 
 ## References
 1. [A unifying model to estimate the effect of heat stress in the human innate immunity during physical activities](https://www.nature.com/articles/s41598-021-96191-0)
