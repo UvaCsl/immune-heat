@@ -16,7 +16,8 @@ git clone git@github.com:UvaCsl/immune-heat.git
 ```
 2. Create an environment named `immune` using the `requirements.txt` file
 
-```conda create --name <env> --file requirements.txt
+```
+conda create --name <env> --file requirements.txt
 ```
 
 ## Files Included

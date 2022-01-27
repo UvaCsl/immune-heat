@@ -41,6 +41,7 @@ fonttools=4.29.0=py38h497a2fe_0
 freetype=2.10.4=h0708190_1
 gettext=0.19.8.1=h73d1719_1008
 glib=2.63.1=h5a9c865_0
+glib-tools=2.70.2=h780b84a_1
 gst-plugins-base=1.18.5=hf529b03_3
 gstreamer=1.18.5=h9f60fe5_3
 icu=69.1=h9c3ff4c_0
@@ -124,7 +125,7 @@ packaging=21.3=pyhd8ed1ab_0
 pandas=1.4.0=py38h43a58ef_0
 parso=0.8.3=pyhd8ed1ab_0
 pathspec=0.9.0=pyhd8ed1ab_0
-patsy=0.5.1=py38_0
+patsy=0.5.2=pyhd8ed1ab_0
 pcre=8.45=h9c3ff4c_0
 pexpect=4.8.0=pyh9f0ad1d_2
 pickleshare=0.7.5=py_1003
